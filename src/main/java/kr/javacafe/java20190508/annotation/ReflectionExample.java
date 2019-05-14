@@ -6,7 +6,7 @@ import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.util.Optional;
 
-public class ReflectionTest {
+public class ReflectionExample {
 
     public void refectionEample() throws IllegalAccessException, InstantiationException, NoSuchMethodException, InvocationTargetException {
 

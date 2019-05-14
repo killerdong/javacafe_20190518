@@ -19,7 +19,7 @@ import java.lang.annotation.*;
 //        ElementType.TYPE_PARAMETER, // 매개 변수 타입 선언시
 //        ElementType.TYPE_USE // 타입 사용시
 //})
-public @interface AnnotationTest {
+public @interface AnnotationExample {
 
     String author();
     String date();
